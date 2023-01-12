@@ -1,2 +1,19 @@
 
 /* Your CSS Code here. */
+.container-fluid {
+  width: 100%;
+}
+.row {
+  display: flex;
+}
+.col {
+  flex: 1;
+  /* set width and height of columns as per your requirement */
+  width: 20%;
+  height: 200px;
+}
+img {
+  width: 100%;
+  height: 100%;
+}
+
